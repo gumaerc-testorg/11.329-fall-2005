@@ -5,8 +5,13 @@ description: 'This resource contains the notions of up,down,and ground which are
 
   physiological limits, and societal pressures, and their interaction begets varying
   and contextual definitions.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-329-social-theory-and-the-city-fall-2005/4b9e75e393cbae74d244b1dd54854ba2_felix_2.pdf
+file: /media/courses/11-329-social-theory-and-the-city-fall-2005/4b9e75e393cbae74d244b1dd54854ba2_felix_2.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: felix_2.pdf
 uid: 4b9e75e3-93cb-ae74-d244-b1dd54854ba2

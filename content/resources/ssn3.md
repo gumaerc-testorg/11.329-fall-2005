@@ -4,8 +4,13 @@ description: 'This resource contains notes about the class discussion on the the
   positions presented in student responses to
 
   the second assignment.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-329-social-theory-and-the-city-fall-2005/844a436e2cfa149903dba9128e439002_ssn3.pdf
+file: /media/courses/11-329-social-theory-and-the-city-fall-2005/844a436e2cfa149903dba9128e439002_ssn3.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: ssn3.pdf
 uid: 844a436e-2cfa-1499-03db-a9128e439002

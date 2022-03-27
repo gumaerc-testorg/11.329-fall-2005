@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 25585a0b-e6a4-91b3-37f4-6f1ab74304bf
 resourcetype: Document
 title: ssn12_r_sawhney.pdf
 uid: 123bf821-d992-7a9c-10b3-a8b09e80f018

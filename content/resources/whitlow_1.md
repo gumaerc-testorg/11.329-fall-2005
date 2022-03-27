@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 35edb678-f969-e648-137e-a636318891b1
 resourcetype: Document
 title: whitlow_1.pdf
 uid: 6d6843e8-7089-9a17-a52c-2bbb70aa4863

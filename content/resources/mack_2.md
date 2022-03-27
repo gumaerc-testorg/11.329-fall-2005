@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 35edb678-f969-e648-137e-a636318891b1
 resourcetype: Document
 title: mack_2.pdf
 uid: e9dff1d0-4602-e984-e861-25727fbdfac1

@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 35edb678-f969-e648-137e-a636318891b1
 resourcetype: Document
 title: sawhney_1.pdf
 uid: e7417d61-76de-7e7a-730e-4001d82c4feb

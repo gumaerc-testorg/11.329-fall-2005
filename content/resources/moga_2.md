@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 35edb678-f969-e648-137e-a636318891b1
 resourcetype: Document
 title: moga_2.pdf
 uid: 6ef69ced-a6ea-c7a6-0f25-ac48d0bc4e39

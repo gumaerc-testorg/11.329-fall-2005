@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: acb8abde-083c-badb-a369-95fc010468b6
 resourcetype: Document
 title: whitlow_thesis.pdf
 uid: 19bff7a4-7176-0a82-70c2-49533324d049

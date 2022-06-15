@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The readings section contains topic wise readings corresponding to the
+  lectures.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -272,7 +274,7 @@ The Racial Politics of Urban Celebrations - Annis Whitlow
 {{< tdopen >}}
 
 
-Whitlow, Annis. _The Racial Politics of Urban Celebrations: A Comparative Study of Philadelphia's Mummers Parade and Odunde Festival_. Master's Thesis. Massachusetts Institute of Technology, 2004. ([PDF - 1.6 MB]({{< baseurl >}}/resources/whitlow_thesis))
+Whitlow, Annis. _The Racial Politics of Urban Celebrations: A Comparative Study of Philadelphia's Mummers Parade and Odunde Festival_. Master's Thesis. Massachusetts Institute of Technology, 2004. ({{% resource_link 19bff7a4-7176-0a82-70c2-49533324d049 "PDF - 1.6 MB" %}})
 
 
 {{< tdclose >}}

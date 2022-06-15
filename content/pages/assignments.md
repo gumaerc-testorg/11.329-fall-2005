@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: The assignments section contains student assignment files.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -53,7 +54,7 @@ Lara Belkind
  
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/belkind_2))
+({{% resource_link f735662c-041b-2839-e7e7-aee96483de3a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -62,10 +63,10 @@ Lara Belkind
 Elliot Felix
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/felix_1))
+({{% resource_link d4054a03-9570-f4c1-ccba-f1c2eb8476d8 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/felix_2))
+({{% resource_link 4b9e75e3-93cb-ae74-d244-b1dd54854ba2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -74,10 +75,10 @@ Elliot Felix
 David Foxe
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/foxe_1))
+({{% resource_link 28c10498-73a8-d96a-44b5-4a4a7da30980 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/foxe_2))
+({{% resource_link 34a4b858-9262-0c98-8534-a821aa0baabe "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -89,7 +90,7 @@ Jennifer Mack
  
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mack_2))
+({{% resource_link e9dff1d0-4602-e984-e861-25727fbdfac1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -98,10 +99,10 @@ Jennifer Mack
 Thomas Oles
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/oles_1))
+({{% resource_link 1e699249-c17b-35b5-84b3-43550a159315 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/oles_2))
+({{% resource_link 1077f9f2-6f32-44b8-0c02-81b5d43039b9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -110,10 +111,10 @@ Thomas Oles
 Nomita Sawhney
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/sawhney_1))
+({{% resource_link e7417d61-76de-7e7a-730e-4001d82c4feb "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/sawhney_2))
+({{% resource_link 55657b22-0a2f-6764-3ed1-1c18f55151be "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -122,7 +123,7 @@ Nomita Sawhney
 Olga Touloumi
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/touloumi_1))
+({{% resource_link 039da9a7-6723-deb5-88d6-4642aa8631f7 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -134,10 +135,10 @@ Olga Touloumi
 Annis Whitlow
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/whitlow_1))
+({{% resource_link 6d6843e8-7089-9a17-a52c-2bbb70aa4863 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/whitlow_2))
+({{% resource_link bc642f38-3915-43eb-587c-c6a274ef5b0f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

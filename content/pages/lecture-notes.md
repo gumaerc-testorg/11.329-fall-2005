@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The Lecture notes section contains the session notes respective to the
+  corresponding topics.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -31,7 +33,7 @@ SESSION NOTES
 Introduction
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/ssn1))
+({{% resource_link 99c80375-2994-5c44-e652-a59dc337ecee "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -43,7 +45,7 @@ Introduction
 Center vs. Periphery
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/ssn2))
+({{% resource_link b6632633-7ee7-f75e-5a21-9bc3e3755f0d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -55,7 +57,7 @@ Center vs. Periphery
 Up/Down vs. Above/Below
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/ssn3))
+({{% resource_link 844a436e-2cfa-1499-03db-a9128e439002 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -67,7 +69,7 @@ Up/Down vs. Above/Below
 The Homo-Faber Project - R. Sennett
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/ssn4))
+({{% resource_link 28582433-1632-d877-6e23-1b8ce7d289e5 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -79,7 +81,7 @@ The Homo-Faber Project - R. Sennett
 Stealth Gentrification - Lara Belkind
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/ssn5_belkind))
+({{% resource_link ec82b0a0-a774-9884-c0f4-ed5cef22465c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -91,7 +93,7 @@ Stealth Gentrification - Lara Belkind
 Spaces of Knowledge within the New York City Subway - Elliott Felix
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/ssn6_felix))
+({{% resource_link 2b9de515-6fe6-4d19-020f-afba2ea53188 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -103,7 +105,7 @@ Spaces of Knowledge within the New York City Subway - Elliott Felix
 Theorizing a Center for Universal Design - Nadya Nilina
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/ssn7_nilina))
+({{% resource_link 55a2c57f-0115-2468-f244-d8c65ecc1362 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -115,7 +117,7 @@ Theorizing a Center for Universal Design - Nadya Nilina
 The Racial Politics of Urban Celebrations - Annis Whitlow
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/ssn8_whitlow))
+({{% resource_link 52ad71ed-6541-fd89-f23a-0ba499259821 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -127,7 +129,7 @@ The Racial Politics of Urban Celebrations - Annis Whitlow
 Structuring Beyond Architecture - David Foxe
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/ssn9_foxe))
+({{% resource_link 59331d29-977c-f866-2405-a9c248c8885c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -139,7 +141,7 @@ Structuring Beyond Architecture - David Foxe
 The Architecture of Repression - Olga Touloumi
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/ssn10_touloumi))
+({{% resource_link 79b5ea8a-c05d-516f-ea4d-4e1b35517552 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -151,7 +153,7 @@ The Architecture of Repression - Olga Touloumi
 Inventing the Modern Suburb in California and Denmark - Thomas Oles
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/ssn11_oles))
+({{% resource_link 5d194319-7fec-026c-0198-22a7643b3397 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -169,7 +171,7 @@ The Limit of Place - Nomita Sawhney
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/ssn12_r_sawhney))
+({{% resource_link 123bf821-d992-7a9c-10b3-a8b09e80f018 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -187,7 +189,7 @@ Immigrant Spaces in the European City - Jennifer Mack
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/ssn13_moga_mack))
+({{% resource_link c0a02413-7dc2-e01a-0265-ca96c5f56136 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

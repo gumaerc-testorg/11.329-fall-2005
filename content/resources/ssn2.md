@@ -8,6 +8,7 @@ file: /courses/11-329-social-theory-and-the-city-fall-2005/b66326337ee7f75e5a219
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ uid: b6632633-7ee7-f75e-5a21-9bc3e3755f0d
 ---
 This resource contains the notes about the class focus on developing the theoretical arguments presented in student
 responses to the first assignment.
-

@@ -6,6 +6,7 @@ file: /courses/11-329-social-theory-and-the-city-fall-2005/1e699249c17b35b584b34
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: oles_1.pdf
 uid: 1e699249-c17b-35b5-84b3-43550a159315
 ---
 This resource contains notes on the topic no single point in space is more or less central than any other.
-

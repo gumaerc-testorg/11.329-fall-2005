@@ -6,6 +6,7 @@ file: /courses/11-329-social-theory-and-the-city-fall-2005/28c1049873a8d96a44b54
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: foxe_1.pdf
 uid: 28c10498-73a8-d96a-44b5-4a4a7da30980
 ---
 This resource contains notes on the difference between the center and the periphery.
-

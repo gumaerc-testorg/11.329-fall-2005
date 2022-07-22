@@ -6,6 +6,7 @@ file: /courses/11-329-social-theory-and-the-city-fall-2005/1077f9f26f3244b80c028
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: oles_2.pdf
 uid: 1077f9f2-6f32-44b8-0c02-81b5d43039b9
 ---
 This resoure contains the concept that perhaps being human comes to this: we stand, no longer hug the hearth, smelling as we go.
-

@@ -5,6 +5,7 @@ file: /courses/11-329-social-theory-and-the-city-fall-2005/55a2c57f01152468f244d
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ssn7_nilina.pdf
 uid: 55a2c57f-0115-2468-f244-d8c65ecc1362
 ---
 This resource talks about theorizing a center for universal design.
-

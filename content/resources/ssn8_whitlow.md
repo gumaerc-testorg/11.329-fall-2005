@@ -4,6 +4,7 @@ description: This resource contains discourses about the construction of identit
   the politics of identity, and the role of design in controlling human behavior and
   expressing power have thus far been confined to separate realms of inquiry.
 file: /courses/11-329-social-theory-and-the-city-fall-2005/52ad71ed6541fd89f23a0ba499259821_ssn8_whitlow.pdf
+file_size: 15137
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

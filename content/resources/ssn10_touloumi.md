@@ -4,6 +4,7 @@ description: 'This resource contains the class discussion on the paper Olga expl
   about the "The Architecture of Repression: war machines and state apparatus in the
   EU summit meeting, Thessaloniki."'
 file: /courses/11-329-social-theory-and-the-city-fall-2005/79b5ea8ac05d516fea4d4e1b35517552_ssn10_touloumi.pdf
+file_size: 11760
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

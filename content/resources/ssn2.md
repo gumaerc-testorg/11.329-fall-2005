@@ -4,7 +4,7 @@ description: 'This resource contains the notes about the class focus on developi
   the theoretical arguments presented in student
 
   responses to the first assignment.'
-file: /courses/11-329-social-theory-and-the-city-fall-2005/b66326337ee7f75e5a219bc3e3755f0d_ssn2.pdf
+file: /ol-ocw-studio-app/courses/11-329-social-theory-and-the-city-fall-2005/b66326337ee7f75e5a219bc3e3755f0d_ssn2.pdf
 file_size: 8702
 file_type: application/pdf
 learning_resource_types:

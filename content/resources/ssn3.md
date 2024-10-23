@@ -4,7 +4,7 @@ description: 'This resource contains notes about the class discussion on the the
   positions presented in student responses to
 
   the second assignment.'
-file: /courses/11-329-social-theory-and-the-city-fall-2005/844a436e2cfa149903dba9128e439002_ssn3.pdf
+file: /ol-ocw-studio-app/courses/11-329-social-theory-and-the-city-fall-2005/844a436e2cfa149903dba9128e439002_ssn3.pdf
 file_size: 18941
 file_type: application/pdf
 learning_resource_types:

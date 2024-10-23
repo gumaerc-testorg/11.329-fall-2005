@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains the concepts of center and periphery which relates
   to the spatial relationships between elements of urban form and how these elements
   are perceived by people.
-file: /courses/11-329-social-theory-and-the-city-fall-2005/f98800ce788b84cf309281ea92b3c70d_moga_1.pdf
+file: /ol-ocw-studio-app/courses/11-329-social-theory-and-the-city-fall-2005/f98800ce788b84cf309281ea92b3c70d_moga_1.pdf
 file_size: 12447
 file_type: application/pdf
 learning_resource_types:

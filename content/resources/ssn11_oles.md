@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the class discussion on Inventing the modern suburb
   in california and denmark, and Note toward a theory of enclosure.
-file: /courses/11-329-social-theory-and-the-city-fall-2005/5d1943197fec026c019822a7643b3397_ssn11_oles.pdf
+file: /ol-ocw-studio-app/courses/11-329-social-theory-and-the-city-fall-2005/5d1943197fec026c019822a7643b3397_ssn11_oles.pdf
 file_size: 11786
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains notes on the difference between the center and
   the periphery.
-file: /ol-ocw-studio-app/courses/11-329-social-theory-and-the-city-fall-2005/28c1049873a8d96a44b54a4a7da30980_foxe_1.pdf
+file: /courses/11-329-social-theory-and-the-city-fall-2005/28c1049873a8d96a44b54a4a7da30980_foxe_1.pdf
 file_size: 16227
 file_type: application/pdf
 learning_resource_types:

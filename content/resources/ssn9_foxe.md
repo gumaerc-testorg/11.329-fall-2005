@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource investigates ways to conceive and design positive relationships
   between internal structure and the urban realm. Also have selected bibliography.
-file: /ol-ocw-studio-app/courses/11-329-social-theory-and-the-city-fall-2005/59331d29977cf8662405a9c248c8885c_ssn9_foxe.pdf
+file: /courses/11-329-social-theory-and-the-city-fall-2005/59331d29977cf8662405a9c248c8885c_ssn9_foxe.pdf
 file_size: 96167
 file_type: application/pdf
 learning_resource_types:

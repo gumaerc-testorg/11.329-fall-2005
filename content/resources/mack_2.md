@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains issues related to modernist cityscapes, social
   structures, and discomfort with undemocratic distributions of power.
-file: /ol-ocw-studio-app/courses/11-329-social-theory-and-the-city-fall-2005/e9dff1d04602e984e86125727fbdfac1_mack_2.pdf
+file: /courses/11-329-social-theory-and-the-city-fall-2005/e9dff1d04602e984e86125727fbdfac1_mack_2.pdf
 file_size: 13853
 file_type: application/pdf
 learning_resource_types:

@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains discourses about the construction of identity,
   the politics of identity, and the role of design in controlling human behavior and
   expressing power have thus far been confined to separate realms of inquiry.
-file: /ol-ocw-studio-app/courses/11-329-social-theory-and-the-city-fall-2005/19bff7a471760a8270c249533324d049_whitlow_thesis.pdf
+file: /courses/11-329-social-theory-and-the-city-fall-2005/19bff7a471760a8270c249533324d049_whitlow_thesis.pdf
 file_size: 1682119
 file_type: application/pdf
 learning_resource_types:

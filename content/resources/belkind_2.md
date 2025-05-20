@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource talks about humans as social animals, Modern consciousness,
   anonymity, autonomy,and abstraction in the urban realm.
-file: /ol-ocw-studio-app/courses/11-329-social-theory-and-the-city-fall-2005/f735662c041b2839e7e7aee96483de3a_belkind_2.pdf
+file: /courses/11-329-social-theory-and-the-city-fall-2005/f735662c041b2839e7e7aee96483de3a_belkind_2.pdf
 file_size: 59259
 file_type: application/pdf
 learning_resource_types:

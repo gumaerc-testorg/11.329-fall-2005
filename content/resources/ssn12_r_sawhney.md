@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains notes about regional cities, and the limit of
   place.
-file: /ol-ocw-studio-app/courses/11-329-social-theory-and-the-city-fall-2005/123bf821d9927a9c10b3a8b09e80f018_ssn12_r_sawhney.pdf
+file: /courses/11-329-social-theory-and-the-city-fall-2005/123bf821d9927a9c10b3a8b09e80f018_ssn12_r_sawhney.pdf
 file_size: 27360
 file_type: application/pdf
 learning_resource_types:

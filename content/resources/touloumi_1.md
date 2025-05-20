@@ -4,7 +4,7 @@ description: 'This resource contains theoretical writing on the distinction betw
   center and periphery without citing any sources or
 
   using any real-world examples.'
-file: /ol-ocw-studio-app/courses/11-329-social-theory-and-the-city-fall-2005/039da9a76723deb588d64642aa8631f7_touloumi_1.pdf
+file: /courses/11-329-social-theory-and-the-city-fall-2005/039da9a76723deb588d64642aa8631f7_touloumi_1.pdf
 file_size: 38658
 file_type: application/pdf
 learning_resource_types:

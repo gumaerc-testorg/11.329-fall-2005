@@ -4,7 +4,7 @@ description: 'This resource contains the idea that the creation of a point which
   as a concentration of purposes and rituals
 
   forms a nodal point of interaction and encounter.'
-file: /courses/11-329-social-theory-and-the-city-fall-2005/e7417d6176de7e7a730e4001d82c4feb_sawhney_1.pdf
+file: /ol-ocw-studio-app/courses/11-329-social-theory-and-the-city-fall-2005/e7417d6176de7e7a730e4001d82c4feb_sawhney_1.pdf
 file_size: 18525
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains notes about spaces of knowledge within the new
   york city subway.
-file: /courses/11-329-social-theory-and-the-city-fall-2005/2b9de5156fe64d19020fafba2ea53188_ssn6_felix.pdf
+file: /ol-ocw-studio-app/courses/11-329-social-theory-and-the-city-fall-2005/2b9de5156fe64d19020fafba2ea53188_ssn6_felix.pdf
 file_size: 11879
 file_type: application/pdf
 learning_resource_types:

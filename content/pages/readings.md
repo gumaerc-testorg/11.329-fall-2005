@@ -50,7 +50,7 @@ Certeau, Michel de. *The Practice of Everyday Life*. Translated by Steven Rendal
 
 Foucault, Michel. *Discipline and Punish: The Birth of the Prison*. Translated by Alan Sheridan. New York, NY: Vintage Books, 1995. ISBN: 0679752552.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/structural-transformation-public-sphere) Habermas, Juergen. [*The Structural Transformation of the Public Sphere*](https://mitpress.mit.edu/books/structural-transformation-public-sphere). Translated by Thomas Burger. Cambridge, MA: MIT Press, 1991. ISBN: 0262581086.
+{{% resource_link "cf1093ce-68c9-4a19-a0f9-3296f39721fe" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Habermas, Juergen. {{% resource_link "cf1093ce-68c9-4a19-a0f9-3296f39721fe" "*The Structural Transformation of the Public Sphere*" %}}. Translated by Thomas Burger. Cambridge, MA: MIT Press, 1991. ISBN: 0262581086.
 
 Arendt, Hannah. *The Human Condition*. Chicago, IL: University of Chicago Press, 1998. ISBN: 0226025985.
 
@@ -68,7 +68,7 @@ The Homo-Faber Project - R. Sennett
 
 Anon. "Homeric Hymn to Hephaestus" In *Hesiod, The Homeric Hymns and Homerica*. Translated by H. G. Evelyn-White. Cambridge, MA: Harvard Loeb Classical Library, 1914 and Portland, OR: Blue Unicorn Press. ISBN: 1583965769.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/socrates-ancestor) McEwen, Indra Kagis. [*Socrates' Ancestor*](https://mitpress.mit.edu/books/socrates-ancestor). Cambridge, MA: MIT Press, 1997. ISBN: 0262631482.
+{{% resource_link "5077922e-ac56-45e7-88a0-82f0ce6e812c" "![Buy at MIT Press](/images/mp_logo.gif)" %}} McEwen, Indra Kagis. {{% resource_link "5077922e-ac56-45e7-88a0-82f0ce6e812c" "*Socrates' Ancestor*" %}}. Cambridge, MA: MIT Press, 1997. ISBN: 0262631482.
 
 Bruggen, Coosje Van. *Frank O. Gehry: Guggenheim Museum Bilbao*. Appendix II, statement by Frank Gehry. "Gehry on Titanium." New York, NY: Solomon R. Guggenheim Foundation, 1997. ISBN: 0892071923.
 
@@ -98,7 +98,7 @@ Blackwell, Trevor, and Jeremy Seabrook. "Len Greenham." In *Talking Work*. Londo
 
 Ruskin, John. *The Stones of Venice*. New York, NY: DeCapo Press, 1985.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/ways-hand-1) Sudnow, David. [*Ways of the Hand*](https://mitpress.mit.edu/books/ways-hand-1). 2nd ed. Cambridge, MA: MIT Press, 2001. ISBN: 0262194678.
+{{% resource_link "91bbc43f-8c8f-4d48-8624-776dbb100aea" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Sudnow, David. {{% resource_link "91bbc43f-8c8f-4d48-8624-776dbb100aea" "*Ways of the Hand*" %}}. 2nd ed. Cambridge, MA: MIT Press, 2001. ISBN: 0262194678.
 
 Lieberman, Julie Lyonn. "The Slide." *The Strad* 116, no. 1383 (July 2005): 69.
 
@@ -126,15 +126,15 @@ Stealth Gentrification - Lara Belkind
 Spaces of Knowledge within the New York City Subway - Elliott Felix
 {{< tdclose >}}{{< tdopen >}}
 
-[NYC](http://en.wikipedia.org/wiki/History_of_the_New_York_City_Subway)
+{{% resource_link "a7d91974-c5a7-4c14-8617-fe1eab76e61b" "NYC" %}}
 
-[MTA Bond Act](http://gothamist.com/2005/10/25/mta_wants_bond_act_and_your_zip_code_if_not_disabled_riders.php)
+{{% resource_link "a2e46893-dccf-4f65-bf5d-cff9a5865d72" "MTA Bond Act" %}}
 
-[Joseph Brennan Abandoned Subway Stations](http://www.columbia.edu/~brennan/abandoned/)
+{{% resource_link "e53bcc43-ec89-49f7-a9fd-abf4af8db5a9" "Joseph Brennan Abandoned Subway Stations" %}}
 
-[Boston Public Library](https://www.bpl.org/)
+{{% resource_link "f12e461a-9a11-4d6c-9c1b-fb144c8f8c1c" "Boston Public Library" %}}
 
-[Open Source Initiatives](http://www.opensource.org/docs/board-annotated)
+{{% resource_link "03a9e907-bbc6-48b1-854c-0127df2e0959" "Open Source Initiatives" %}}
 
 Cudahy, Brian. *The New York Subway, Its Construction, and Equipment*. New York, NY: Fordham University Press, 1991.
 
@@ -156,18 +156,18 @@ Simmel, Georg. "The Metropolis and Urban Life." Reprinted in *Classic Essays on 
 
 ———. "The Stranger." Translated in *The Sociology of Georg Simmel*. Edited by Kurt Wolff. New York, NY: Free Press, 1950.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/critical-vehicles) Wodiczko, Kyrzstof. [*Critical Vehicles: Writings, Projects, and Interviews*](https://mitpress.mit.edu/books/critical-vehicles). Cambridge, MA: MIT Press, 1998. ISBN: 0262731223.
+{{% resource_link "2583f30a-d350-4718-b08f-030cde3ab00a" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Wodiczko, Kyrzstof. {{% resource_link "2583f30a-d350-4718-b08f-030cde3ab00a" "*Critical Vehicles: Writings, Projects, and Interviews*" %}}. Cambridge, MA: MIT Press, 1998. ISBN: 0262731223.
 
 Woolston, Howard. "The Urban Habit of Mind." *American Journal of Sociology* 17, no. 5 (March 1912).
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/notes-underground-new-edition) Williams, Rosalind H. [*Notes on the Underground: an Essay on Technology, Society, and the Imagination*](https://mitpress.mit.edu/books/notes-underground-new-edition). Cambridge, MA: MIT Press, 1992. ISBN: 0262730987.
+{{% resource_link "dbd7cd2a-a0d0-4b8d-a62d-da47656a21ab" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Williams, Rosalind H. {{% resource_link "dbd7cd2a-a0d0-4b8d-a62d-da47656a21ab" "*Notes on the Underground: an Essay on Technology, Society, and the Imagination*" %}}. Cambridge, MA: MIT Press, 1992. ISBN: 0262730987.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
 {{< tdclose >}}{{< tdopen >}}
 Theorizing a Center for Universal Design - Nadya Nilina
 {{< tdclose >}}{{< tdopen >}}
-[Southpoint: From Ruin to Rejuvenation](http://architizer.com/projects/southpoint-from-ruin-to-rejuvenation-competition/)
+{{% resource_link "92f7029b-1de8-43e8-a21c-8feecdaf0a07" "Southpoint: From Ruin to Rejuvenation" %}}
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
 {{< tdclose >}}{{< tdopen >}}
@@ -216,7 +216,7 @@ Sennett, Richard. *The Fall of Public Man*. New York, NY: Penguin Books, 1974.
 
 ———. *Conscience of the Eye*. New York, NY: W.W. Norton, 1992.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/artificial-love) Shepheard, Paul. [*Artificial Love / A Story of Machines and Architecture*](https://mitpress.mit.edu/books/artificial-love). Cambridge, MA: MIT Press, 2003. ISBN: 0262194856.
+{{% resource_link "edcff7d7-b5fc-45ef-9783-c806fbe3825c" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Shepheard, Paul. {{% resource_link "edcff7d7-b5fc-45ef-9783-c806fbe3825c" "*Artificial Love / A Story of Machines and Architecture*" %}}. Cambridge, MA: MIT Press, 2003. ISBN: 0262194856.
 
 Solomon, Jonathan. *13 Projects for the Sheridan Expressway a.k.a. Jump, Slump, Hump, Bump - Guide Specifications for a Post-Fordist Infrastructure*. New York, NY: Princeton Architectural Press, 2004. (Pamphlet Architecture 26).
 
@@ -226,13 +226,13 @@ Solomon, Jonathan. *13 Projects for the Sheridan Expressway a.k.a. Jump, Slump, 
 The Architecture of Repression - Olga Touloumi
 {{< tdclose >}}{{< tdopen >}}
 
-New Transatlantic Agenda, [European Union - Delegation of the European Commission to the United States](https://eeas.europa.eu/delegations/united-states-america_en). December 1995.
+New Transatlantic Agenda, {{% resource_link "9d8efba4-3ba2-4b19-b269-3604cbb2cdb1" "European Union - Delegation of the European Commission to the United States" %}}. December 1995.
 
-Solana, Javier. "Thessaloniki: closer to Europe." In *Council of the European Union*. ([PDF](http://www.consilium.europa.eu/uedocs/cms_data/docs/pressdata/en/articles/76466.pdf))
+Solana, Javier. "Thessaloniki: closer to Europe." In *Council of the European Union*. ({{% resource_link "0fa7197b-79de-4f77-ac45-6a4997cea42a" "PDF" %}})
 
-"The WTO in brief." In *WTO Web site*, [The Multilateral Trading System-Past, Present and Future](http://www.wto.org/english/thewto_e/whatis_e/inbrief_e/inbr01_e.htm), [The Organization](http://www.wto.org/english/thewto_e/whatis_e/inbrief_e/inbr02_e.htm).
+"The WTO in brief." In *WTO Web site*, {{% resource_link "d81772f8-2358-40c5-9163-6b2081b7469d" "The Multilateral Trading System-Past, Present and Future" %}}, {{% resource_link "1de80f4b-1a4d-4404-8a7c-58c1edb851b9" "The Organization" %}}.
 
-Kaminski, Bartolomiej, and Manuel de la Rocha. "Stabilization and association process in the Balkans: integration options and their assessment." *World Bank Web site*. ([PDF - 6.0 MB](http://www-wds.worldbank.org/servlet/WDSContentServer/WDSP/IB/2003/05/03/000094946_03041904001980/Rendered/PDF/multi0page.pdf))
+Kaminski, Bartolomiej, and Manuel de la Rocha. "Stabilization and association process in the Balkans: integration options and their assessment." *World Bank Web site*. ({{% resource_link "848f0a34-5e5c-4f13-a30d-c5fab5913ffb" "PDF - 6.0 MB" %}})
 
 Bentham, Jeremy. "Panopticon, or the Inspection House: Containing the Idea of a New Principle of Construction Applicable to Any Sort of Establishment, in which Persons of Any Description are to be Kept under Inspection; and in the Particular to Penitentiary Houses, Prisons, Poor Houses, Lazarettos, Houses or Industry, Manufactories, Hospitals, Work-Houses, Mad-Houses, and Schools: With a Plan of Management Adapted to the Principle." In *The Works of Jeremy Bentham (1787)*. Vol. IV. Edited by John Bowring. New York, NY: Russell and Russell, 1962.
 
@@ -280,15 +280,15 @@ Toft, Anders Høyer. "Huset uden egenskaber, en undersøgelse af arkitekturen me
 
 Steen-Andersen, Ove. *Bo Bedre's nye typehusbog: valg, planer, kritik, priser* *(Bo Bedre's new typehouse book: choice, plans, criticism, prices)*. Copenhagen, Denmark: Fogtdals Bogforlag A/S, 1969, passim.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/invisible-gardens) Walker, Peter, and Melanie Simo. [*Invisible Gardens: The Search for Modernism in the American Landscape*](https://mitpress.mit.edu/books/invisible-gardens). Cambridge, MA: MIT Press, 1994. ISBN: 0262731169.
+{{% resource_link "3afab495-a230-4d25-a091-6e7bee0e1449" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Walker, Peter, and Melanie Simo. {{% resource_link "3afab495-a230-4d25-a091-6e7bee0e1449" "*Invisible Gardens: The Search for Modernism in the American Landscape*" %}}. Cambridge, MA: MIT Press, 1994. ISBN: 0262731169.
 
 Møller, Jørgen Nue. "Bag hækken." (Behind the hedge), *Arkitekten* 98, no. 27 (1996): 31.
 
 Starr, Kevin. "Sunset Magazine and the Phenomenon of the Far West." In *Sunset Magazine: A Century of Western Living, 1898-1998. Historical Portraits and a Chronological Bibliography of Selected Topics*. Stanford, CA: Stanford University Libraries, 1998.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/blueprints-modern-living) Hines, Thomas S. "Case Study Trouvé: Sources and Precedents, Southern California, 1920-1942." In [*Blueprints for Modern Living: History and Legacy of the Case Study Houses*](https://mitpress.mit.edu/books/blueprints-modern-living). Edited by Elizabeth A. T. Smith. Cambridge, MA: MIT Press, 1998. ISBN: 0262692139.
+{{% resource_link "0331b5e7-3b9b-4374-8eac-774f0bb7ccb1" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Hines, Thomas S. "Case Study Trouvé: Sources and Precedents, Southern California, 1920-1942." In {{% resource_link "0331b5e7-3b9b-4374-8eac-774f0bb7ccb1" "*Blueprints for Modern Living: History and Legacy of the Case Study Houses*" %}}. Edited by Elizabeth A. T. Smith. Cambridge, MA: MIT Press, 1998. ISBN: 0262692139.
 
-Tiedemann, Anker. "[Bo Bedre 40 år](http://pil.dk/)." (40 years of *Bo Bedre*), 2001.
+Tiedemann, Anker. "{{% resource_link "ba96a49e-3c52-4357-94c5-3b73ce66b591" "Bo Bedre 40 år" %}}." (40 years of *Bo Bedre*), 2001.
 
 Jensen, Niels. *Allotment Guide: Copenhagen and Surroundings*. Copenhagen, Denmark: De Frie Fugle, 1996.
 
@@ -300,13 +300,13 @@ McCamant, Kathryn, and Charles Durrett. *Co-housing: a contemporary approach to 
 
 Enggaard, Michael, and Flemming Rose. "Hvad vil det sige at være dansk?" (What does it mean to be Danish?) *Morgenavisen Jyllands-Posten*, December 9, 2004.
 
-[Eichler Network](http://www.eichlernetwork.com/)
+{{% resource_link "e65406d0-6615-49b7-8fba-9816ad0ecc92" "Eichler Network" %}}
 
-[Live Modern](http://www.livemodern.com/)
+{{% resource_link "2ac3e137-4354-45f1-b0a8-440c3903c67a" "Live Modern" %}}
 
 Clark, T. C. *Farewell to an Idea*. New Haven, CT: Yale University Press, 1999.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/architecture-and-utopia) Tafuri, Manfredo. [*Architecture and Utopia: Design and Capitalist Development*](https://mitpress.mit.edu/books/architecture-and-utopia). Translated by Barbara Luigia La Penta. Cambridge, MA: MIT Press, 1976. ISBN: 0262700204.
+{{% resource_link "5f41a0c7-17bc-483c-acf7-003f1d0ec8a4" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Tafuri, Manfredo. {{% resource_link "5f41a0c7-17bc-483c-acf7-003f1d0ec8a4" "*Architecture and Utopia: Design and Capitalist Development*" %}}. Translated by Barbara Luigia La Penta. Cambridge, MA: MIT Press, 1976. ISBN: 0262700204.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
@@ -326,7 +326,7 @@ Calvino, Italo. "Cities and Desire." In *Invisible Cities*. New York, NY: Harcou
 
 Yates, Frances. "Architecture and the Art of Memory." In *Architectural design* 38, no. 12 (December 1968): 573-578.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262522113/the-city-of-collective-memory/) Boyer, M. Christine. [*The City of Collective Memory*](https://mitpress.mit.edu/books/city-collective-memory). Cambridge, MA: MIT Press 1996. ISBN: 0262023717.
+{{% resource_link "a01f242a-06bf-488d-8333-5c2a6f1a4f37" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Boyer, M. Christine. {{% resource_link "c41d1cca-f5b6-46ac-8b97-a711272e13cb" "*The City of Collective Memory*" %}}. Cambridge, MA: MIT Press 1996. ISBN: 0262023717.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
@@ -386,7 +386,7 @@ Katzman, Louise. *Photography in California, 1945-1980*. New York, NY: Hudson Hi
 
 Levin, Jeffrey, ed. *Picture LA: Landmarks of a New Generation*. Los Angeles, CA: The J. Paul Getty Trust, 1994.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/city-center-regional-mall) Longstreth, Richard. [*City Center to Regional Mall: Architecture, the Automobile, and Retailing in Los Angeles, 1920-1950*](https://mitpress.mit.edu/books/city-center-regional-mall). Cambridge, MA: The MIT Press, 1997. ISBN: 0262621258.
+{{% resource_link "5309e2fa-e009-4d35-ac20-382d70ea87dc" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Longstreth, Richard. {{% resource_link "5309e2fa-e009-4d35-ac20-382d70ea87dc" "*City Center to Regional Mall: Architecture, the Automobile, and Retailing in Los Angeles, 1920-1950*" %}}. Cambridge, MA: The MIT Press, 1997. ISBN: 0262621258.
 
 Lyons, Nathan, ed. *Photographers on Photography*. Englewood Cliffs, NJ: Prentice-Hall, 1966.
 
@@ -430,7 +430,7 @@ Weaver, John D. *El Pueblo Grande: Los Angeles from the Brush Huts of Yanga to t
 
 *Immigrant Spaces*
 
-Mack, Jennifer. *Ice Skating and Island Hopping: Refugees, Integration, and Access in a Segregated City*. Rose Marie Rodgers Working Paper 20. Cambridge, MA: Inter-University Committee on International Migration, 2003. ([PDF - 1.1 MB](https://cis.mit.edu/sites/default/files/documents/IceSkatingAndIslandHopping_Mack.pdf))
+Mack, Jennifer. *Ice Skating and Island Hopping: Refugees, Integration, and Access in a Segregated City*. Rose Marie Rodgers Working Paper 20. Cambridge, MA: Inter-University Committee on International Migration, 2003. ({{% resource_link "a0161ab8-6c65-4cfe-b7fd-a3694f0934df" "PDF - 1.1 MB" %}})
 
 Yan, Yunxiang. "McDonald's in Beijing: The Localization of Americana." In *Golden Arches East*. Edited by James L. Watson. Stanford, CA: Stanford University Press, 1997. ISBN: 0804732058.
 
